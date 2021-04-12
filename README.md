@@ -1,16 +1,16 @@
 # f_anime
 
-A new Flutter application.
+The Application has most of its emphasis on the animations and transition.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Home
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img width="546" alt="Screenshot 2021-04-12 at 7 24 10 PM" src="https://user-images.githubusercontent.com/14312802/114406319-12ba6480-9bc5-11eb-9967-d433280d0368.png">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Page
+
+<img width="546" alt="Screenshot 2021-04-12 at 7 24 23 PM" src="https://user-images.githubusercontent.com/14312802/114406360-1b129f80-9bc5-11eb-9ce0-f7d967bc09f9.png">
+
